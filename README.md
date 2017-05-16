@@ -1,2 +1,3 @@
 # cbs_bot
-twitter bot for anyone interested in corporate advice. 
+Twitter bot that tweets corporate strategy advice every 6 hours.  
+Source of the tweets: http://cbsg.sourceforge.net/cgi-bin/live
